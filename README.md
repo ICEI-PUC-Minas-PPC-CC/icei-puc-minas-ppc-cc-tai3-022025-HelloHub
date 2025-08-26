@@ -1,7 +1,6 @@
-# 📌 Nome do Projeto
+# 📌 Hello Hub
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimentos técnicos, limitando o acesso de pequenos negócios, criadores de conteúdo e comunidades à automação de atendimento. HelloHub resolve esse problema oferecendo uma plataforma no-code intuitiva, que permite criar chatbots personalizados de forma rápida, utilizando modelos prontos para diferentes tipos de negócio e integrando facilmente com sites e redes sociais. O usuário pode montar seu chatbot apenas arrastando elementos e configurando respostas, sem precisar programar.
 
 ---
 
@@ -17,16 +16,21 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
-- **Impacto esperado:**  
-- **Solução proposta:**  
+- **Problema identificado:**  Criar um chatbot atualmente exige conhecimento técnico, ferramentas existentes são complexas, manutenção e personalização contínua são difíceis para pessoas leigas.
+- **Público-alvo:**  Pessoas comuns que querem ter um chatbot personalizado, pequenos empreendedores, criadores de conteúdo e influenciadores digitais, pequenas ONGs ou comunidades que querem automatizar atendimentos.
+- **Impacto esperado:**  O impacto esperado do HelloHub é democratizar a criação de chatbots, tornando acessível para qualquer pessoa uma tecnologia antes cara e complexa.
+- **Solução proposta:**  Aplicativo/web app com interface simples para montar chatbots, biblioteca de modelos prontos para negócios (ex.: restaurante, clínica, e-commerce) com integração fácil.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (imagem ou link)  
-- Missão:  
-- Visão:  
-- Valores:  
+- **Lean Canvas**: ![Lean Canvas](./HelloHubLean.png)
+- **Missão**: Tornar a criação de chatbots simples, acessível e intuitiva, permitindo que qualquer pessoa ou negócio utilize automação de forma prática e sem barreiras técnicas.  
+- **Visão**: Ser, até 2030, a principal plataforma global de criação de chatbots no-code, reconhecida pela simplicidade, inovação e impacto na democratização da tecnologia de automação.  
+- **Valores**:
+  - **Acessibilidade**: tecnologia ao alcance de todos.  
+  - **Inovação**: melhoria contínua para facilitar a vida dos usuários.  
+  - **Simplicidade**: foco em interfaces intuitivas e fáceis de usar.  
+  - **Confiabilidade**: oferecer segurança, transparência e suporte.  
+  - **Colaboração**: construir comunidade e valor junto a clientes e parceiros.  
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
