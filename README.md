@@ -8,7 +8,7 @@ Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimento
 
 - Marcos Henrique Gollin Filho – RA: 765313  
 - Diogo Nascimento Ruis – RA: 810401  
-- Nathan Furchi Alvisi – RA: XXXXXXXX
+- Nathan Furchi Alvisi – RA: 815695
 - César Henrique Policarpo de Melo – RA: XXXXXXXX  
 
 ---
