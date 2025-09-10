@@ -33,9 +33,9 @@ Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimento
   - **Colaboração**: construir comunidade e valor junto a clientes e parceiros.  
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  
-- Custos variáveis:  
-- Tributos aplicáveis:  
+- Custos fixos:  Totalizam R$ 7.500,00 por mês. Incluem o pró-labore de toda a equipe (4 pessoas x R$ 1.500 = R$ 6.000,00) e os serviços de contabilidade (R$ 500,00).
+- Custos variáveis:  Totalizam R$ 9.500,00 por mês (estimativa inicial). Incluem os gastos com infraestrutura de nuvem (R$ 3.000,00), APIs de terceiros (R$ 1.500,00), marketing e anúncios (R$ 5.000,00) e taxas sobre vendas (estimadas em R$ 1.000,00, mas que variam com o faturamento).
+- Tributos aplicáveis:  Como prestadora de serviços de software (SaaS), a empresa se enquadra no Simples Nacional.
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial:  
