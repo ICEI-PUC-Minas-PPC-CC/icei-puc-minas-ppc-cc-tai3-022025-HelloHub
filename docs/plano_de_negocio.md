@@ -1,8 +1,8 @@
-# Análise de Custos e Despesas: HelloHub
+# Investimentos e Precificação: HelloHub
 
 Este documento apresenta uma análise de custos e despesas para o projeto **HelloHub**, adaptada para uma equipe fundadora de 4 pessoas que compartilham todas as responsabilidades (desenvolvimento, produto, marketing e administração). Os gastos foram concentrados nos itens essenciais para colocar e manter o produto no ar e atrair clientes.
 
-## 1. Premissas da Análise
+## 1. Investimentos
 
 *   **Equipe:** 4 sócios-fundadores que recebem um pró-labore fixo e dividem as tarefas de desenvolvimento, gestão de produto, vendas, marketing e administração.
 *   **Estrutura:** Operação 100% remota, eliminando custos com aluguel de escritório.
@@ -10,7 +10,7 @@ Este documento apresenta uma análise de custos e despesas para o projeto **Hell
 
 ---
 
-## 2. Detalhamento dos Gastos
+## 2. Precificação
 
 ### Categoria 1: Custos (Gastos para o Serviço Funcionar)
 
