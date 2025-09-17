@@ -37,7 +37,7 @@ Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimento
 - Custos variáveis:  Totalizam R$ 9.500,00 por mês (estimativa inicial). Incluem os gastos com infraestrutura de nuvem (R$ 3.000,00), APIs de terceiros (R$ 1.500,00), marketing e anúncios (R$ 5.000,00) e taxas sobre vendas (estimadas em R$ 1.000,00, mas que variam com o faturamento).
 - Tributos aplicáveis:  Como prestadora de serviços de software (SaaS), a empresa se enquadra no Simples Nacional.
 
-### 4️⃣ [Investimentos e Precificação](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-HelloHub/edit/main/docs/plano_de_negocio.md)
+### 4️⃣ [Investimentos e Precificação](**https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-HelloHub/blob/main/docs/plano_de_negocio.md**)
 - Investimento inicial: R$ 64.000,00 (Incluindo investimentos fixos, pré-operacionais e giro iniciaL).
 - Estratégia de precificação: Nossa estratégia de precificação combina modelo freemium e planos pagos acessíveis (R$59 a R$149/mês), garantindo simplicidade, competitividade e alto valor entregue ao cliente.
 - Justificativa:  A precificação foi definida com base no valor entregue (simplicidade e economia), na capacidade de pagamento do público-alvo e na análise da concorrência, garantindo acessibilidade sem perder competitividade.
