@@ -4,7 +4,7 @@ Este documento apresenta uma análise de custos e despesas para o projeto **Hell
 
 ## 📊 Investimentos
 
-### 1.Investimento Fixo
+### 1. Investimento Fixo
 
 Como a operação será 100% remota, não haverá gastos com imóveis, móveis ou veículos. Os investimentos fixos se concentram na infraestrutura tecnológica inicial:
 
