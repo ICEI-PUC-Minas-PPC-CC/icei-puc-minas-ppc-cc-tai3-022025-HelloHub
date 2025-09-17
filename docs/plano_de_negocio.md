@@ -3,12 +3,29 @@
 Este documento apresenta uma análise de custos e despesas para o projeto **HelloHub**, adaptada para uma equipe fundadora de 4 pessoas que compartilham todas as responsabilidades (desenvolvimento, produto, marketing e administração). Os gastos foram concentrados nos itens essenciais para colocar e manter o produto no ar e atrair clientes.
 
 ## 1. Investimentos
-Como a operação será 100% remota, não haverá gastos com imóveis, móveis ou veículos. Os investimentos fixos se concentram na infraestrutura tecnológica inicial:
-*   **Servidores e hospedagem em nuvem (setup inicial):** R$ 3.000,00
-*   **APIs de terceiros (créditos iniciais para testes e integração):** R$ 1.500,00
-*   **Equipamentos pessoais (computadores/softwares dos sócios):** já disponíveis, sem custo adicional.
+**Investimento Fixo**
 
-|  **Total Invenstimento Fixo Inicial** | **R$ 4500,00~** |
+Como a operação será 100% remota, não haverá gastos com imóveis, móveis ou veículos. Os investimentos fixos se concentram na infraestrutura tecnológica inicial:
+*  **Servidores e hospedagem em nuvem (setup inicial):** R$ 3.000,00
+*  **APIs de terceiros (créditos iniciais para testes e integração):** R$ 1.500,00
+*  **Equipamentos pessoais (computadores/softwares dos sócios):** já disponíveis, sem custo adicional.
+
+|  Total Investimento Fixo Inicial | R$ 4500,00~ |
+| :--- | :--- |
+
+**Investimento Pré-operacional**
+
+Custos necessários para colocar o negócio no ar:
+
+*  **Registro da marca e abertura da empresa (legalização):** R$ 2.000,00
+*  **Treinamentos pontuais (marketing digital, growth e gestão SaaS):** R$ 1.500,00
+*  **Plano inicial de marketing e divulgação pré-lançamento:** R$ 5.000,00
+*  **Desenvolvimento mínimo viável (MVP):** absorvido pelo trabalho dos sócios.
+
+|  Total Investimento Fixo Inicial | R$ 8500,00~ |
+| :--- | :--- |
+
+**Capital de Giro**
 
 ---
 
