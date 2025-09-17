@@ -3,7 +3,8 @@
 Este documento apresenta uma análise de custos e despesas para o projeto **HelloHub**, adaptada para uma equipe fundadora de 4 pessoas que compartilham todas as responsabilidades (desenvolvimento, produto, marketing e administração). Os gastos foram concentrados nos itens essenciais para colocar e manter o produto no ar e atrair clientes.
 
 ## 📊 Investimentos
-**Investimento Fixo**
+
+### 1.Investimento Fixo
 
 Como a operação será 100% remota, não haverá gastos com imóveis, móveis ou veículos. Os investimentos fixos se concentram na infraestrutura tecnológica inicial:
 
@@ -14,7 +15,7 @@ Como a operação será 100% remota, não haverá gastos com imóveis, móveis o
 | **APIs de terceiros (créditos iniciais)** | Investimento | Variável | Direto | R$ 1.500,00 | Integração com serviços de IA e NLP para testes e primeiras implementações. |
 | **Subtotal de Custos** | | | | **R$ 4.500,00** | |
 
-**Investimento Pré-operacional**
+### 2. Investimento Pré-operacional
 
 Custos necessários para colocar o negócio no ar:
 
@@ -25,7 +26,7 @@ Custos necessários para colocar o negócio no ar:
 | **Marketing pré-lançamento** | Pré-Operecional | Variável | Indireto | R$ 5.000,00 | Divulgação inicial para captação de usuários no lançamento. |
 | **Subtotal de Custos** | | | | **R$ 8.500,00** | |
 
-**Capital de Giro**
+### 3. Capital de Giro
 Valor necessário para manter a operação mensal:
 
 | Item do Gasto | Classificação | Fixo/Variável | Direto/Indireto | Valor Estimado (R$/mês) | Justificativa |
@@ -38,6 +39,17 @@ Valor necessário para manter a operação mensal:
 | **Taxas de Meios de Pagamento** | Capital de Giro | Variável | Indireto | R$ 1.000,00 | Taxas de transações sobre as vendas. |
 | **Contabilidade** | Capital de Giro | Fixo | Indireto | R$ 500,00 | Serviço mensal de contabilidade online. |
 | **Subtotal Capital de Giro (Mensal)** |  |  |  | **R$ 17.000,00** |  |
+
+### 4. Resumo Geral de Investimentos
+
+| Categoria | Valor | Observação |
+| :--- | :--- | :--- |
+| **Investimento Fixo** | R$ 4.500,00 | Inicial |
+| **Pré-operacional** | R$ 8.500,00 | Inicial |
+| **Capital de Giro (mensal)** | R$ 17.000,00 | Manutenção mensal |
+| **Capital de Giro (3 meses)** | R$ 51.000,00 | Reserva mínima recomendada |
+| **Investimento Total Estimado** | **R$ 64.000,00** | Inclui fixo, pré-operacional e giro inicial |
+
 
 ---
 
@@ -87,10 +99,14 @@ Valor necessário para manter a operação mensal:
 
 ---
 
-### ✅ Resumo Precificação
-- **Modelo:** Freemium + planos pagos escaláveis.  
-- **Faixa de preço:** R$ 59 a R$ 149/mês.  
-- **Métricas-chave:** CAC R$ 50 | ARPU R$ 80 | LTV R$ 960.
+## 7. Resumo Precificação
+
+| Aspecto | Detalhes |
+| :--- | :--- |
+| **Modelo** | Freemium + planos pagos escaláveis |
+| **Faixa de preço** | R$ 59 a R$ 149/mês |
+| **Métricas-chave** | CAC: R$ 50 <br> ARPU: R$ 80 <br> LTV: R$ 960 |
+
 
 
 PNBOX Link: https://pnbox.sebrae.com.br/planoNegocio/invite/KJceAuCS8
