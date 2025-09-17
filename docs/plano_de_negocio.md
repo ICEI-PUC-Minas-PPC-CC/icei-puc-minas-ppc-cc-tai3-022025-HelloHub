@@ -26,7 +26,14 @@ Custos necessários para colocar o negócio no ar:
 | :--- | :--- |
 
 **Capital de Giro**
+Valor necessário para manter a operação mensal:
 
+*  **Custos fixos (pró-labore + contabilidade):** R$ 7.500,00/mês
+
+*  **Custos variáveis (infraestrutura + APIs + marketing + taxas):** R$ 9.500,00/mês
+
+| Capital de Giro Inicial (3 meses de operação) |R$ 17.000,00 × 3 = R$ 51.000,00~ |
+| :--- | :--- |
 ---
 
 ## 2. Precificação
