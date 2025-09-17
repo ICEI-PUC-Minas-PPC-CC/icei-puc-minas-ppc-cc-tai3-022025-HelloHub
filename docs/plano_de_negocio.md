@@ -8,7 +8,7 @@ Como a operação será 100% remota, não haverá gastos com imóveis, móveis o
 *   **APIs de terceiros (créditos iniciais para testes e integração):** R$ 1.500,00
 *   **Equipamentos pessoais (computadores/softwares dos sócios):** já disponíveis, sem custo adicional.
 
-**Total Investimento Fixo Inicial: ~R$ 4.500,00**
+    **Total Investimento Fixo Inicial: ~R$ 4.500,00**
 
 ---
 
