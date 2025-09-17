@@ -7,6 +7,7 @@ Como a operação será 100% remota, não haverá gastos com imóveis, móveis o
 *   **Servidores e hospedagem em nuvem (setup inicial):** R$ 3.000,00
 *   **APIs de terceiros (créditos iniciais para testes e integração):** R$ 1.500,00
 *   **Equipamentos pessoais (computadores/softwares dos sócios):** já disponíveis, sem custo adicional.
+
 **Total Investimento Fixo Inicial: ~R$ 4.500,00**
 
 ---
