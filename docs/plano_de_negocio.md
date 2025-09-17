@@ -1,6 +1,6 @@
 # Investimentos e Precificação: HelloHub
 
-Este documento apresenta uma análise de custos e despesas para o projeto **HelloHub**, adaptada para uma equipe fundadora de 4 pessoas que compartilham todas as responsabilidades (desenvolvimento, produto, marketing e administração). Os gastos foram concentrados nos itens essenciais para colocar e manter o produto no ar e atrair clientes.
+Este documento apresenta uma análise detalhada dos investimentos iniciais, capital de giro e estratégia de precificação para o projeto HelloHub. A operação será 100% remota, com foco na redução de custos fixos e no aproveitamento máximo da infraestrutura em nuvem.
 
 ## 📊 Investimentos
 
