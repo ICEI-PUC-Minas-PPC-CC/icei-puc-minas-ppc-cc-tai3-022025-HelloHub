@@ -107,6 +107,60 @@ Valor necessário para manter a operação mensal:
 | **Faixa de preço** | R$ 59 a R$ 149/mês |
 | **Métricas-chave** | CAC: R$ 50 <br> ARPU: R$ 80 <br> LTV: R$ 960 |
 
+---
+
+# Enquadramento Empresarial
+
+## 1. Natureza Jurídica
+
+- **Forma escolhida:** Sociedade Limitada (LTDA)  
+- **Justificativa:**  
+  - Permite ter dois ou mais sócios, limitando a responsabilidade de cada um ao capital social investido.  
+  - Facilita a captação de investimentos futuros em comparação a MEI ou Empresário Individual.  
+  - Compatível com operação de SaaS com faturamento acima do limite de MEI (R$ 144 mil/ano).  
+
+---
+
+## 2. Regime Tributário
+
+- **Regime escolhido:** Simples Nacional  
+- **Justificativa:**  
+  - Receita anual estimada inicial compatível (bem abaixo do teto de R$ 4,8M/ano).  
+  - Facilita a gestão fiscal e contábil por consolidar vários tributos em uma guia única (DAS).  
+  - Reduz carga tributária para operações nacionais e permite benefícios em exportações de SaaS.  
+
+---
+
+## 3. Tributação Incidente
+
+- **Tributos federais embutidos no DAS:**  
+  - IRPJ (Imposto de Renda Pessoa Jurídica)  
+  - CSLL (Contribuição Social sobre o Lucro Líquido)  
+  - PIS e COFINS  
+  - CPP – Contribuição Previdenciária Patronal (INSS sobre folha de pagamento)  
+
+- **Tributos municipais:**  
+  - ISS (Imposto Sobre Serviços, 2% a 5%, incluído na guia do Simples)  
+
+- **Tributos estaduais:**  
+  - ICMS não se aplica (SaaS não envolve circulação de mercadorias)  
+
+- **Exportações de SaaS:**  
+  - Receita internacional de clientes fora do Brasil reduz a base tributável, sendo isenta de ISS, PIS e COFINS.  
+
+- **Alíquotas praticáveis:**  
+  - 15,5% sobre receita bruta  
+  - 6% sobre receita bruta  
+
+---
+
+## 4. Obrigações Acessórias
+
+- Emissão de **Notas Fiscais de Serviços**, inclusive para exportações com destaque de isenção de ISS.  
+- **GFIP/eSocial** – para folha de pagamento.  
+- **DEFIS** – Declaração anual do Simples Nacional.  
+- **RAIS/CAGED** – obrigações trabalhistas, se houver empregados.  
+
 
 
 PNBOX Link: https://pnbox.sebrae.com.br/planoNegocio/invite/KJceAuCS8
