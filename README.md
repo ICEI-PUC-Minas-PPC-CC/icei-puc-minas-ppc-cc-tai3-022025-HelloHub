@@ -43,10 +43,10 @@ Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimento
 - Justificativa:  A precificação foi definida com base no valor entregue (simplicidade e economia), na capacidade de pagamento do público-alvo e na análise da concorrência, garantindo acessibilidade sem perder competitividade.
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+- Forças: Interface simples e intuitiva no modelo no-code; Preços acessíveis e planos em reais (foco no público brasileiro); Equipe multidisciplinar com foco em tecnologia e marketing.
+- Fraquezas: Marca nova e com baixa notoriedade no mercado; Dependência de APIs e serviços de terceiros (custo variável); Recursos financeiros limitados na fase inicial.
+- Oportunidades: Crescimento do uso de chatbots por pequenas empresas e criadores de conteúdo; Avanço das tecnologias de IA generativa, facilitando novas integrações; Possibilidade de parcerias com influenciadores e agências de marketing digital.
+- Ameaças: Forte presença de concorrentes internacionais consolidados; Risco de aumento no custo de APIs de IA e hospedagem em nuvem; Rápida evolução tecnológica pode tornar ferramentas obsoletas rapidamente.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 - Objetivos estratégicos:  
