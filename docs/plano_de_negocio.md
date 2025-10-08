@@ -162,5 +162,43 @@ Valor necessário para manter a operação mensal:
 - **RAIS/CAGED** – obrigações trabalhistas, se houver empregados.  
 
 
-
 PNBOX Link: https://pnbox.sebrae.com.br/planoNegocio/invite/KJceAuCS8
+
+## Análise de Ambiente — Pesquisa de Mercado e Matriz SWOT
+
+### Pesquisa de Mercado
+
+O mercado de criação de chatbots cresceu fortemente com o avanço das inteligências artificiais conversacionais e ferramentas no-code. Hoje, há diversas plataformas que permitem a criação de bots sem código, mas a maioria ainda é voltada a empresas de médio/grande porte e apresenta barreiras de idioma, custo e usabilidade. O HelloHub busca preencher essa lacuna oferecendo **simplicidade, acessibilidade e interface em português**.
+
+#### Concorrentes Diretos e Indiretos
+
+| Concorrente | Descrição e Diferenciais | Preço | Canais / Marketing | Público-alvo | Ameaças que Representa |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **ManyChat** | Plataforma no-code para criar chatbots no WhatsApp, Messenger e Instagram. Foco em automação de marketing e vendas. Interface em inglês, mas com suporte global. | US$ 15–50/mês (~R$ 80–250) | Marketing digital, tutoriais e influenciadores. | Pequenas e médias empresas. | Alta consolidação no mercado e integração nativa com redes sociais. |
+| **Tidio** | Chatbots e chat online para sites, com recursos de automação e atendimento humano. Foco em e-commerce. | US$ 29/mês (~R$ 150) | SEO, anúncios e parcerias com lojas virtuais. | Lojas online e pequenos negócios. | Forte integração com Shopify e WooCommerce. |
+| **Chatfuel** | Foco em automação de mensagens no Messenger e Instagram. Possui modelo freemium limitado. Interface intuitiva, mas sem suporte nativo em português. | Gratuito (limitado) / US$ 30–50/mês | Influenciadores e anúncios pagos. | Pequenos empreendedores digitais. | Reconhecimento internacional e grande base de usuários. |
+
+#### Diferencial Competitivo do HelloHub
+O HelloHub se diferencia por:
+- Foco em **simplicidade e acessibilidade**, com **planos mais baratos**.  
+- Modelos prontos para diversos nichos (e-commerce, restaurante, ONG etc.).  
+- Integração fácil com sites, WhatsApp e redes sociais.  
+- Experiência no-code real, basta arrastar e configurar.  
+
+---
+
+### Matriz SWOT — HelloHub
+
+| **Forças (Strengths)** | **Fraquezas (Weaknesses)** |
+| :--- | :--- |
+| Interface simples e intuitiva no modelo no-code. | Marca nova e com baixa notoriedade no mercado. |
+| Preços acessíveis e planos em reais (foco no público brasileiro). | Dependência de APIs e serviços de terceiros (custo variável). |
+| Equipe multidisciplinar com foco em tecnologia e marketing. | Recursos financeiros limitados na fase inicial. |
+
+| **Oportunidades (Opportunities)** | **Ameaças (Threats)** |
+| :--- | :--- |
+| Crescimento do uso de chatbots por pequenas empresas e criadores de conteúdo. | Forte presença de concorrentes internacionais consolidados. |
+| Avanço das tecnologias de IA generativa, facilitando novas integrações. | Risco de aumento no custo de APIs de IA e hospedagem em nuvem. |
+| Possibilidade de parcerias com influenciadores e agências de marketing digital. | Rápida evolução tecnológica pode tornar ferramentas obsoletas rapidamente. |
+
+---
