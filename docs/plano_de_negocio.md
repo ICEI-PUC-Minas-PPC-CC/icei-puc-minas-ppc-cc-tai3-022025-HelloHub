@@ -164,13 +164,15 @@ Valor necessário para manter a operação mensal:
 
 PNBOX Link: https://pnbox.sebrae.com.br/planoNegocio/invite/KJceAuCS8
 
-## Análise de Ambiente — Pesquisa de Mercado e Matriz SWOT
+---
 
-### Pesquisa de Mercado
+# Análise de Ambiente - Pesquisa de Mercado e Matriz SWOT
+
+## Pesquisa de Mercado
 
 O mercado de criação de chatbots cresceu fortemente com o avanço das inteligências artificiais conversacionais e ferramentas no-code. Hoje, há diversas plataformas que permitem a criação de bots sem código, mas a maioria ainda é voltada a empresas de médio/grande porte e apresenta barreiras de idioma, custo e usabilidade. O HelloHub busca preencher essa lacuna oferecendo **simplicidade, acessibilidade e interface em português**.
 
-#### Concorrentes Diretos e Indiretos
+### Concorrentes Diretos e Indiretos
 
 | Concorrente | Descrição e Diferenciais | Preço | Canais / Marketing | Público-alvo | Ameaças que Representa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -187,7 +189,7 @@ O HelloHub se diferencia por:
 
 ---
 
-### Matriz SWOT — HelloHub
+## Matriz SWOT — HelloHub
 
 | **Forças (Strengths)** | **Fraquezas (Weaknesses)** |
 | :--- | :--- |
