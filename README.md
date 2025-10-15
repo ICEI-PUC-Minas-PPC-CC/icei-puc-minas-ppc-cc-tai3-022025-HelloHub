@@ -48,10 +48,22 @@ Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimento
 - Oportunidades: Crescimento do uso de chatbots por pequenas empresas e criadores de conteúdo; Avanço das tecnologias de IA generativa, facilitando novas integrações; Possibilidade de parcerias com influenciadores e agências de marketing digital.
 - Ameaças: Forte presença de concorrentes internacionais consolidados; Risco de aumento no custo de APIs de IA e hospedagem em nuvem; Rápida evolução tecnológica pode tornar ferramentas obsoletas rapidamente.
 
-### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos:  
-- Indicadores e metas:  
-- Ações planejadas:  
+### 6️⃣ [Planejamento Estratégico (BSC)](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-HelloHub/blob/main/docs/planejamento_estrategico.xlsx)
+- Objetivos estratégicos:<br>
+  Financeiro: Aumentar a receita e a lucratividade, otimizando os custos.<br>
+  Clientes: Conquistar e reter clientes satisfeitos, tornando-se referência para pequenos negócios.<br>
+  Processos Internos: Manter uma plataforma estável, segura e inovadora.<br>
+  Aprendizagem: Ter uma equipe de alta performance, motivada e que busca conhecimento contínuo.<br>
+- Indicadores e metas:<br>
+  Receita: Atingir R$ 14.800 de faturamento mensal em Dezembro.<br>
+  Clientes: Conquistar 185 clientes pagantes até o final do ano.<br>
+  Plataforma: Suportar 300 usuários simultâneos com alta performance.<br>
+  Equipe: Acumular 120 horas de capacitação e manter a satisfação interna acima de 90%.<br>
+- Ações planejadas:<br>
+  Marketing: Investir em anúncios (Google/Meta Ads) e criar conteúdo educativo para atrair usuários.<br>
+  Produto: Lançar uma nova funcionalidade ou modelo de chatbot a cada trimestre.<br>
+  Infraestrutura: Revisar e escalar a capacidade dos servidores a cada dois meses.<br>
+  Gestão: Realizar reuniões mensais de acompanhamento de metas e satisfação da equipe.<br>
 
 ### 7️⃣ Fluxo de Caixa
 - Planilha ou print do fluxo projetado:  
