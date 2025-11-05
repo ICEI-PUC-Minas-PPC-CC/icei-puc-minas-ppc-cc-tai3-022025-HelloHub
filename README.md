@@ -69,7 +69,7 @@ Atualmente, criar chatbots é uma tarefa complexa, cara e que exige conhecimento
 - Planilha ou print do fluxo projetado:  [fluxo_de_caixa](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-HelloHub/blob/main/docs/fluxo_de_caixa.xlsx)
 - Principais considerações:  
 
-### 8️⃣ [Valuation](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-HelloHub/blob/main/docs/valuation.xlsx)
+### 8️⃣ [Valuation](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-HelloHub/blob/main/docs/Valuation.xlsx)
 - Método utilizado:  Para estimar o valor da HelloHub, foi utilizado o método de Fluxo de Caixa Descontado (FCD), projetando os resultados financeiros da empresa para os próximos 5 anos. As projeções foram baseadas no crescimento esperado da receita e na estrutura de custos definida no plano de negócios. A taxa de desconto (WACC) de 34% foi calculada para refletir os riscos de uma startup de tecnologia em estágio inicial no Brasil. Como validação, foi realizada uma análise complementar por Múltiplos de Mercado, comparando a empresa com outras do setor de SaaS.
 - Valor estimado:  O valor estimado para a HelloHub, com base no método de Fluxo de Caixa Descontado, é de aproximadamente R$ 440.000,00. Este valor representa o potencial econômico do negócio, considerando as premissas de crescimento e rentabilidade futuras.
 
